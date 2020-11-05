@@ -4,10 +4,13 @@ Frage: Wie kann man kollabrativ mit GitHub ein Jupyterbook editieren? Hier der V
 
 Kernfrage: Wie löst man konkurrierende Edits auf?
 
+Diese Zeile wurde lokal und/oder über Firefox direkt hinzugefügt.
+
 <<<<<<< HEAD
-Diese Zeile wurde lokal hinzugefügt.
-
-
+Eine neue Zeile, angelegt online 14:55 Uhr.
+UND lokal editiert um fast 15 Uhr! 
 =======
-Diese Zeile wurde über Firefox direkt  in Github hinzugefügt.
->>>>>>> f43b9b737a381a7ce09e67a853502d28de625cd7
+Eine neue Zeile, angelegt online 14:55 Uhr. Und auch 14:57!
+>>>>>>> 5a39b8ee086fd5185a074b10c4318a0081e05266
+
+
