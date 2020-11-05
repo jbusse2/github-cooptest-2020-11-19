@@ -4,6 +4,10 @@ Frage: Wie kann man kollabrativ mit GitHub ein Jupyterbook editieren? Hier der V
 
 Kernfrage: Wie löst man konkurrierende Edits auf?
 
-Diese Zeile wurde lokal und/oder über Firefox direkt hinzugefügt.
+<<<<<<< HEAD
+Diese Zeile wurde lokal hinzugefügt.
 
 
+=======
+Diese Zeile wurde über Firefox direkt  in Github hinzugefügt.
+>>>>>>> f43b9b737a381a7ce09e67a853502d28de625cd7
