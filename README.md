@@ -6,7 +6,6 @@ Kernfrage: Wie löst man konkurrierende Edits auf?
 
 Diese Zeile wurde lokal und/oder über Firefox direkt hinzugefügt.
 
-Eine neue Zeile, angelegt online 14:55 Uhr.
+Eine neue Zeile, angelegt online 14:55 Uhr. Und auch 14:57!
 UND lokal editiert um fast 15 Uhr! 
-
 
